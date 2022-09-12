@@ -5,10 +5,18 @@ body {
 h1 {
   color: black;
   text-align: center;
+  background-color: grey
 }
-
+h3 {
+  background-color: grey
+}
 p {
   font-family: verdana;
   font-size: 15px;
   color: black;
+  background-color: grey
+
+}
+ol {
+  background-color: grey
 }
