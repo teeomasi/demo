@@ -1,22 +1,22 @@
 body {
   background-color: white;
+  font-family:monospace;
 }
 
-h1 {
-  color: black;
-  text-align: center;
-  background-color: grey
+#otsikko {
+height:100px; width:650px; color:black;
+            border:5px solid; background-color: grey;"
 }
-h3 {
-  background-color: grey
+h1 {
+  font-size:25px;
 }
 p {
-  font-family: verdana;
-  font-size: 15px;
-  color: black;
-  background-color: grey
+  font-family:
+  font-size:
+  color:
+  background-color: g
 
 }
 ol {
-  background-color: grey
+  background-color:
 }
