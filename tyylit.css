@@ -4,7 +4,7 @@ body {
 }
 
 #otsikko {
-height:100px; width:650px; color:black;
+height:100px; width:1890px; color:black;
             border:5px solid; background-color: grey;"
 }
 h1 {
@@ -19,4 +19,9 @@ p {
 }
 ol {
   background-color:
+}
+#teksti
+{
+height:300px; width:1000px; color:black;
+            border:5px solid; background-color: grey;"
 }
